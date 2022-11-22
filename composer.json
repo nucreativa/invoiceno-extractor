@@ -1,0 +1,22 @@
+{
+  "name": "nucreativa/invoiceno-extractor",
+  "description": "Extract invoice number from text. For internal purpose only.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Nucreativa\\InvoiceNoExtractor\\": "src/"
+    },
+    "classmap": [
+      "src/"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ary Wibowo",
+      "email": "nucreativa@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  }
+}
