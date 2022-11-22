@@ -1,6 +1,7 @@
 {
   "name": "nucreativa/invoiceno-extractor",
   "description": "Extract invoice number from text. For internal purpose only.",
+  "version": "1.0.0",
   "type": "library",
   "autoload": {
     "psr-4": {
